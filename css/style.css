@@ -1,0 +1,30 @@
+/* header */
+.jumbotron {
+    padding-top: 0;
+    height: 100vh;
+    background: url("../images/jumbotron.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+#header {
+    text-align: center;
+    margin-top: 15%;
+}
+
+/* navigation */
+.nav {
+    padding: 15px 0 15px 0;
+}
+
+.nav a {
+    color: white;
+}
+
+.dropdown-menu a {
+    color: black;
+}
